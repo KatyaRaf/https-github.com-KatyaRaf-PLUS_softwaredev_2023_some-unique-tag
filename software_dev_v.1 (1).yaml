@@ -1,0 +1,10 @@
+name: software_dev_v1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
+  - jupyterlab
+  - rasterio
+  - pyrosar
+prefix: C:\Users\kate7\downloads\software_dev_v1
